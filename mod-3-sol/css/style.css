@@ -21,10 +21,7 @@ div > p {
 	}
 }
 @media (max-width: 767px;) {
-	.navbar-brand a {
-		padding-top: 10px;
-		font-size: 5vw;
-	}
+
 	.navbar-brand {
 		margin-left: 15px;
 	
